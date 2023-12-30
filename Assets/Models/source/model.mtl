@@ -1,0 +1,8 @@
+# Made in Blockbench 2.6.6
+newmtl 0
+map_Kd furnace1.png
+newmtl 1
+map_Kd furnace_top.png
+newmtl 2
+map_Kd furnace2.png
+newmtl none
